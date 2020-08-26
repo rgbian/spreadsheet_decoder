@@ -9,3 +9,4 @@ import 'package:xml/xml.dart';
 part 'src/spreadsheet.dart';
 part 'src/ods.dart';
 part 'src/xlsx.dart';
+part 'src/xls.dart';
